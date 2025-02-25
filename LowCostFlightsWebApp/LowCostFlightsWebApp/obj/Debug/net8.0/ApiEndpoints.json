@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "LowCostFlightsWebApp.Controllers.FlightsController",
+    "Method": "GetFlights",
+    "RelativePath": "api/flights/search",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "flightSearch",
+        "Type": "LowCostFlightsWebApp.Models.FlightSearchDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

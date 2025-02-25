@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dominik\\source\\repos\\LowCostFlightsWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A54B75B-5E62-4FCA-98FB-8333BA893292}|LowCostFlightsWebApp\\LowCostFlightsWebApp.csproj|c:\\users\\dominik\\source\\repos\\lowcostflightswebapp\\lowcostflightswebapp\\models\\flightsearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A54B75B-5E62-4FCA-98FB-8333BA893292}|LowCostFlightsWebApp\\LowCostFlightsWebApp.csproj|solutionrelative:lowcostflightswebapp\\models\\flightsearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A54B75B-5E62-4FCA-98FB-8333BA893292}|LowCostFlightsWebApp\\LowCostFlightsWebApp.csproj|c:\\users\\dominik\\source\\repos\\lowcostflightswebapp\\lowcostflightswebapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A54B75B-5E62-4FCA-98FB-8333BA893292}|LowCostFlightsWebApp\\LowCostFlightsWebApp.csproj|solutionrelative:lowcostflightswebapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A54B75B-5E62-4FCA-98FB-8333BA893292}|LowCostFlightsWebApp\\LowCostFlightsWebApp.csproj|c:\\users\\dominik\\source\\repos\\lowcostflightswebapp\\lowcostflightswebapp\\services\\amadeusapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A54B75B-5E62-4FCA-98FB-8333BA893292}|LowCostFlightsWebApp\\LowCostFlightsWebApp.csproj|solutionrelative:lowcostflightswebapp\\services\\amadeusapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A54B75B-5E62-4FCA-98FB-8333BA893292}|LowCostFlightsWebApp\\LowCostFlightsWebApp.csproj|c:\\users\\dominik\\source\\repos\\lowcostflightswebapp\\lowcostflightswebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A54B75B-5E62-4FCA-98FB-8333BA893292}|LowCostFlightsWebApp\\LowCostFlightsWebApp.csproj|solutionrelative:lowcostflightswebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A54B75B-5E62-4FCA-98FB-8333BA893292}|LowCostFlightsWebApp\\LowCostFlightsWebApp.csproj|c:\\users\\dominik\\source\\repos\\lowcostflightswebapp\\lowcostflightswebapp\\controllers\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A54B75B-5E62-4FCA-98FB-8333BA893292}|LowCostFlightsWebApp\\LowCostFlightsWebApp.csproj|solutionrelative:lowcostflightswebapp\\controllers\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A54B75B-5E62-4FCA-98FB-8333BA893292}|LowCostFlightsWebApp\\LowCostFlightsWebApp.csproj|c:\\users\\dominik\\source\\repos\\lowcostflightswebapp\\lowcostflightswebapp\\services\\amadeusauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A54B75B-5E62-4FCA-98FB-8333BA893292}|LowCostFlightsWebApp\\LowCostFlightsWebApp.csproj|solutionrelative:lowcostflightswebapp\\services\\amadeusauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A54B75B-5E62-4FCA-98FB-8333BA893292}|LowCostFlightsWebApp\\LowCostFlightsWebApp.csproj|c:\\users\\dominik\\source\\repos\\lowcostflightswebapp\\lowcostflightswebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A54B75B-5E62-4FCA-98FB-8333BA893292}|LowCostFlightsWebApp\\LowCostFlightsWebApp.csproj|solutionrelative:lowcostflightswebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Dominik\\source\\repos\\LowCostFlightsWebApp\\LowCostFlightsWebApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "LowCostFlightsWebApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Dominik\\source\\repos\\LowCostFlightsWebApp\\LowCostFlightsWebApp\\appsettings.Development.json",
+              "RelativeToolTip": "LowCostFlightsWebApp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-08T21:23:44.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlightSearchDto.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\source\\repos\\LowCostFlightsWebApp\\LowCostFlightsWebApp\\Models\\FlightSearchDto.cs",
+              "RelativeDocumentMoniker": "LowCostFlightsWebApp\\Models\\FlightSearchDto.cs",
+              "ToolTip": "C:\\Users\\Dominik\\source\\repos\\LowCostFlightsWebApp\\LowCostFlightsWebApp\\Models\\FlightSearchDto.cs",
+              "RelativeToolTip": "LowCostFlightsWebApp\\Models\\FlightSearchDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:58:12.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlightsController.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\source\\repos\\LowCostFlightsWebApp\\LowCostFlightsWebApp\\Controllers\\FlightsController.cs",
+              "RelativeDocumentMoniker": "LowCostFlightsWebApp\\Controllers\\FlightsController.cs",
+              "ToolTip": "C:\\Users\\Dominik\\source\\repos\\LowCostFlightsWebApp\\LowCostFlightsWebApp\\Controllers\\FlightsController.cs",
+              "RelativeToolTip": "LowCostFlightsWebApp\\Controllers\\FlightsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:44:41.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AmadeusApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\source\\repos\\LowCostFlightsWebApp\\LowCostFlightsWebApp\\Services\\AmadeusApiService.cs",
+              "RelativeDocumentMoniker": "LowCostFlightsWebApp\\Services\\AmadeusApiService.cs",
+              "ToolTip": "C:\\Users\\Dominik\\source\\repos\\LowCostFlightsWebApp\\LowCostFlightsWebApp\\Services\\AmadeusApiService.cs",
+              "RelativeToolTip": "LowCostFlightsWebApp\\Services\\AmadeusApiService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:41:53.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AmadeusAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\source\\repos\\LowCostFlightsWebApp\\LowCostFlightsWebApp\\Services\\AmadeusAuthService.cs",
+              "RelativeDocumentMoniker": "LowCostFlightsWebApp\\Services\\AmadeusAuthService.cs",
+              "ToolTip": "C:\\Users\\Dominik\\source\\repos\\LowCostFlightsWebApp\\LowCostFlightsWebApp\\Services\\AmadeusAuthService.cs",
+              "RelativeToolTip": "LowCostFlightsWebApp\\Services\\AmadeusAuthService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:40:40.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\source\\repos\\LowCostFlightsWebApp\\LowCostFlightsWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LowCostFlightsWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Dominik\\source\\repos\\LowCostFlightsWebApp\\LowCostFlightsWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LowCostFlightsWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:09:23.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\source\\repos\\LowCostFlightsWebApp\\LowCostFlightsWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "LowCostFlightsWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Dominik\\source\\repos\\LowCostFlightsWebApp\\LowCostFlightsWebApp\\Program.cs",
+              "RelativeToolTip": "LowCostFlightsWebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:43:28.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
